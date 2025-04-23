@@ -10,7 +10,7 @@ const Home = () => {
 
      
       <h1 className="text-5xl font-extrabold text-gray-800 mb-4 text-center animate-fadeIn">
-        Welcome to <span className="text-blue-600">My Page</span>
+        Welcome to <span className="text-blue-600">product management</span>
       </h1>
       <p className="text-lg text-gray-600 mb-8 text-center max-w-xl animate-fadeIn delay-100">
         Explore the best fake products around the globe. High-quality UI, smooth transitions, and blazing fast performance.
